@@ -1,0 +1,2 @@
+print("nama saya Zohri")
+print("prodi PTI")
